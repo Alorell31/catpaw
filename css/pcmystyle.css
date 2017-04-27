@@ -1,0 +1,230 @@
+
+
+body { 
+     background-image: url("../images/bacjkground_image.jpg");
+      background: rgba(255, 255, 255,)
+     background-size:cover;
+        }
+
+.Modalbody {
+    
+     background-image: url("../images/bacjkground_image.jpg");
+      background: rgba(255, 255, 255,)
+     background-size:cover;
+    width: 75%;
+    height: 600px;
+    padding: 30px;
+}
+
+p{font-family: Gloria Hallelujah;}
+
+h1 {font-family: 'Shadows Into Light', cursive;
+    
+}
+
+h2 {font-family: 'Shadows Into Light Two', cursive;
+}
+
+
+.bold{font-weight: bold;}
+
+.logobox{
+    margin-top: 10px;
+}
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+#container1 {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    width: 100%;
+    border: 1px solid black;
+    background: rgba(255, 255, 80, 0.6);
+    padding-right: 50px;
+    padding-left: 50px;
+    z-index: 1;
+   
+}
+
+.navbox {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    text-align: center;
+}
+
+.glyphicon {
+    font-size: 38px;
+}
+
+.nav-pills a {
+    color: 	#F80000;
+    background-color: #600000;
+   
+}
+
+.dropdown-menu A{
+    color: 	#F80000;
+    background-color: #f4d142;
+     
+}
+
+.nav-pills a:hover {
+    color: #560000;
+    border-radius: 0px;
+    
+}
+
+.nav-pills .active a:hover {
+    color: #560000;
+    border-radius: 0px;
+}
+
+video {
+    display: flex;
+    z-index: -1;
+    opacity: .7;
+    width: 100%;
+    
+}
+
+
+.container3 {
+display: flex;
+flex-wrap: wrap;
+
+}
+
+.tracksHeader {
+  display: flex;
+flex-wrap: wrap;
+justify-content: center;
+    margin: auto;
+}
+
+}
+
+.tracks{ 
+    align-content: flex-start;
+    align-items: baseline;
+    margin: 25%;
+}
+      
+}
+
+#player {
+ width:50%;
+
+}
+
+.songheader{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+    text-align: center;
+   
+}
+
+.btn2{
+    margin: 20px;
+}
+
+.song{
+    margin: 40px;
+    width: 300px
+   
+}
+
+.songrow{
+ display: flex;
+flex-wrap: wrap;
+    justify-content: center;
+}
+    
+.album{
+   max-width: 225px;
+    max-height: 225px
+    margin: 20px;
+}
+
+
+@media screen and (min-width: 768px) {
+	
+	#AlbumModal .modal-dialog  {
+     max-width: 450px;
+
+
+}
+
+#AlbumModal .modal-dialog  {width:75%;}
+  
+}
+/*Gallery Page CSS Starts: Kristian*/
+
+/*Gallery Page CSS Starts: Kristian*/
+
+.centerme {
+    text-align: center;
+    color: orange;
+
+
+#cat-carousel {
+    margin: 75px;
+}
+
+/*Gallery Page CSS Ends: Kristian*/
+
+
+
+
+
+
+
+
+.teaser img {          /* teaser class*/
+border-radius: 5px;
+display: block;
+margin-bottom: 22px;
+max-width: 100%;
+}
+
+.speaker-info img {
+    border-radius: 50%;
+    height: 130px;
+    margin: 66px 0 22px 0;
+    vertical-align: top;
+}
+
+.speaker-info {
+    border: 1px solid re;
+    border-radius: 5px;
+    margin-top: 88px;
+    padding-bottom: 22px;
+    text-align: center;
+}
+
+
+.container4 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+    text-align: center  
+}
+    
+.formsField {
+margin: 75%; 
+
+}
+    
+    .PhotoSize {
+        max-height: 150px;
+    }
